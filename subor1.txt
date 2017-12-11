@@ -1,1 +1,3 @@
 Tento subor bol vytvoreny v master vetve
+
+uprava
